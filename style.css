@@ -48,19 +48,19 @@ textarea {
 
 div {
     display: flex;
+    justify-content:space-evenly;
 }
 
 div button {
     background-color: #9051A8;
     color: #F1F5F9;
-    font-size: 24px;
+    font-size: 20px;
     border: 0;
-    border-bottom: 7px solid #5365A4;
+    border-bottom: 5px solid #5365A4;
     padding: 15px 20px;
     margin: 0 10px;
     cursor: pointer;
-    border-radius: 8px; 
-    position: relative;
+    border-radius: 8px;
 }
 
 
